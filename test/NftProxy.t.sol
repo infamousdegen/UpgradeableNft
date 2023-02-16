@@ -79,6 +79,10 @@ contract NftProxy is Test {
 
     }
 
+    function test_setBaseUri() public {
+        
+    }
+
 
 
 
